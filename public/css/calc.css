@@ -1,0 +1,15 @@
+.calcField {
+	background-color:gainsboro;
+}
+.calcField:not(h2) {
+	font-size:25px;
+}
+.historyField {
+	background-color:gainsboro;
+}
+.historyField:not(h2) {
+	font-size:25px;
+}
+.historyField button {
+	font-size:15px;
+}
