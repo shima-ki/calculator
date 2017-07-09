@@ -15,4 +15,4 @@
 3.以下のコマンドを実行する  
 	- composer install  
 	- php artisan serve  
-4.http://localhost:8000にアクセスをする
+4.http://localhost:8000 にアクセスをする
